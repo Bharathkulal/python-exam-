@@ -1,0 +1,50 @@
+body {
+    font-family: Arial;
+    background: #f4f6f8;
+    margin: 0;
+}
+
+header {
+    background: #306998;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+input, select, button {
+    margin: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.card {
+    background: white;
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.question {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.answer {
+    display: none;
+    margin-top: 10px;
+}
+
+.dark {
+    background: #121212;
+    color: white;
+}
+
+.dark .card {
+    background: #1e1e1e;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language.",
+        "example": "print('Hello World')",
+        "category": "basic"
+    },
+    {
+        "question": "What is a list?",
+        "answer": "A list is a mutable collection.",
+        "example": "my_list = [1,2,3]",
+        "category": "basic"
+    },
+    {
+        "question": "What is inheritance?",
+        "answer": "It allows one class to inherit another.",
+        "example": "class B(A): pass",
+        "category": "oop"
+    },
+    {
+        "question": "What is polymorphism?",
+        "answer": "Same function behaves differently.",
+        "example": "len('abc'), len([1,2])",
+        "category": "oop"
+    },
+    {
+        "question": "What is decorator?",
+        "answer": "A function that modifies another function.",
+        "example": "@decorator",
+        "category": "advanced"
+    }
+]
